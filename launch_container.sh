@@ -1,0 +1,1 @@
+docker run --restart=always -d tg_inn_bot:0.7.1

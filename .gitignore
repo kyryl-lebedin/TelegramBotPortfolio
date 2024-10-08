@@ -1,0 +1,10 @@
+/check_raw_val.csv
+/cred/innmanagertgbot-422117-b5566a3c4064.json
+/cred/test_keys_inn_for_bot.json
+/cred/user_base_inn.json
+filters_table/__pycache__
+filters_table/finance/__pycache__
+filters_table/legal/__pycache__
+msg_answer_builder/__pycache__
+.idea
+__pycache__/
